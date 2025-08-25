@@ -1,8 +1,5 @@
-published: true
-title: Web Scraping With Python Chapter 1 Learning notes
-category: Python
-tags:
-- Web Scraping
-layout: post
 
-#那些年你用过的表示论
+#那些年你用过的表示论：
+
+###嘉当矩阵，素根与表示的权：
+对于性质足够好的李代数，他有着嘉当子代数（最大的阿贝尔子代数）{$H_i$}
