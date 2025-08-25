@@ -1,11 +1,12 @@
 title: 椋鸟灵note
 description: 笔记合集
-remote_theme: kaeyleo/jekyll-theme-H2O
-plugins:
-  - jekyll-remote-theme
+theme: jekyll-TeXt-theme
 markdown: kramdown
 kramdown:
   math_engine: mathjax
+  input: GFM
+  hard_wrap: false
+markdown_enhanced: true
 defaults:
   - scope:
       path: ""      # 作用于所有文件
