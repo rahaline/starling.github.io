@@ -2,4 +2,4 @@
 
 什么，你竟然不会飞，那就来学习点飞行技巧吧，这会让你成为Céleste山最靚的仔
 
-[表示论的杂技：(repsnote.md)]
+[表示论的杂技：(https://github.com/starlingnia/starlingnia.github.io/blob/main/repsnote.md)]
