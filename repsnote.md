@@ -4,3 +4,10 @@
 <h2>嘉当矩阵，素根与表示的权：</h2>
 <p>对于性质足够好的李代数，他有着嘉当子代数（最大的阿贝尔子代数）{H<sub>i</sub>}
 </p>
+<body>
+<code mkd>
+  [H_i,H_j]=0
+  [E_{\alpha},H_i]=\alpha^i\cdot E_{\alpha}
+</code>
+<script src="https://cdn.jsdelivr.net/npm/marked@3.0.0/marked.min.js"></script>
+<script>
