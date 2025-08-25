@@ -2,3 +2,9 @@ title: 椋鸟灵note
 description: 笔记合集
 theme: jekyll-theme-cayman
 markdown: kramdown
+defaults:
+  - scope:
+      path: ""      # 作用于所有文件
+      type: "pages" # 只对普通页面生效
+    values:
+      layout: "default"
