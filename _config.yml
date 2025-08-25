@@ -2,6 +2,10 @@ title: 椋鸟灵note
 description: 笔记合集
 theme: jekyll-theme-cayman
 markdown: kramdown
+kramdown:
+  input: GFM          # GitHub Flavored Markdown
+  math_engine: mathjax
+  hard_wrap: false
 defaults:
   - scope:
       path: ""      # 作用于所有文件
