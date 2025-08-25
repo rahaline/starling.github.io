@@ -1,6 +1,10 @@
 title: 椋鸟灵note
 description: 笔记合集
-theme: jekyll-TeXt-theme
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-remote-theme
+remote_theme: kitian616/jekyll-TeXt-theme
 markdown: kramdown
 kramdown:
   math_engine: mathjax
