@@ -5,9 +5,13 @@
 <p>对于性质足够好的李代数，他有着嘉当子代数（最大的阿贝尔子代数）{H<sub>i</sub>}
 </p>
 
-[H_i,H_j]=0
+$$
+[H_i, H_j] = 0
+$$
 
-[E_{\alpha},H_i]=\alpha^i\cdot E_{\alpha}
+$$
+[E_{\alpha}, H_i] = \alpha^i \cdot E_{\alpha}
+$$
 
 
 
