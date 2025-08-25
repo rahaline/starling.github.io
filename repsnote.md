@@ -1,7 +1,4 @@
----
-layout: default
-title: Notes
----
+
 #那些年你用过的表示论：
 
 ##嘉当矩阵，素根与表示的权：
